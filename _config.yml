@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kelly Chiu # the website title (if blank, full name will be used instead)
+title: Yu Ying (Kelly) Chiu # the website title (if blank, full name will be used instead)
 first_name: Yu Ying
 middle_name:
 last_name: Chiu
@@ -49,7 +49,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
+socials_in_search: false
 bib_search: true
 
 # Dimensions
@@ -312,8 +312,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: ["Chiu"]
+  first_name: ["Yu Ying"]
 
   style: apa
   locale: en

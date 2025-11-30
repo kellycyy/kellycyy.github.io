@@ -25,8 +25,8 @@ I’m a final-year master’s student in Computational Linguistics (NLP) at the 
 
 I was a ML Alignment & Theory Scholar ([MATS](https://www.matsprogram.org/)), worked with `Evan Hubinger` from Anthropic on AI values evaluations ([LitmusValues](https://arxiv.org/abs/2505.14633)). 
 
-Currently, I'm a Research Associate at New York University, worked with Prof. `Sydney Levine` from NYU/Google DeepMind and Prof. `Mitchell Gordon` from MIT/OpenAI. Check our recent work, [MoReBench](https://morebench.github.io/) (a PhD-level, rubric-based moral reasoning benchmark), in colloboration with Scale AI!
+Currently, I'm a Research Associate at New York University, working with Prof. `Sydney Levine` from NYU/Google DeepMind and Prof. `Mitchell Gordon` from MIT/OpenAI. Check out our recent work, [MoReBench](https://morebench.github.io/) (a PhD-level, rubric-based moral reasoning benchmark), in collaboration with Scale AI!
 
-My research focuses on the intersection of NLP and humans. Broadly, I’m intrigued by how humans understand and think during decision-making, and how technology can help improve those decisions. My goal is to build and enhance *moral, empathetic, and culturally sensitive AI*, with a current focus on real-world data collection and human-AI interactions, and value alignment evaluation for the good of humanity.
+My research focuses on the intersection of Human-centered AI and AI Safety. Broadly, I’m intrigued by how humans and AI understand the world, think and make important decisions, and how we can use these insights to better support humans using AI and ensure AI can benefit humanity . My goal is to build and enhance *moral, empathetic, and culturally sensitive AI*, with a current focus on real-world data collection, human-AI collaboration and value-alignment evaluation.
 
-Always happy to connect with people who are excited to chat, think, or collaborate on AI value alignment and AI safety research!
+Always happy to connect with people who are excited to chat or collaborate on AI value alignment and AI safety research!

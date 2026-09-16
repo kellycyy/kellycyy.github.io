@@ -1,3 +1,13 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <h3 class="publication-theme">moral values</h3>
+  {% bibliography --group_by none --query @*[selected=true && selected_category=moral]* %}
+
+  <h3 class="publication-theme">cultural values</h3>
+  {% bibliography --group_by none --query @*[selected=true && selected_category=cultural]* %}
+
+  <h3 class="publication-theme">empathetic values</h3>
+  {% bibliography --group_by none --query @*[selected=true && selected_category=empathetic]* %}
+
+  <h3 class="publication-theme">AI agent simulations</h3>
+  {% bibliography --group_by none --query @*[selected=true && selected_category=agents]* %}
 </div>

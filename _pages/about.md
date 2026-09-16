@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS student at University of Washington, Research Associate at New York University.
+subtitle: PhD student at UC Berkeley working on AI safety and alignment.
 
 profile:
   align: right
   image: icon.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>kellycyy [at] uw [dot] edu</p>
+    <p>kellycyy [at] berkeley [dot] edu</p>
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -21,12 +21,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I’m a final-year master’s student in Computational Linguistics (NLP) at the University of Washington, advised by Prof. `Yejin Choi` and Prof. `Tim Althoff`. I also worked closely with Prof. `Shane Steinert-Threlkeld`. 
+Hi, I’m Kelly, a first-year PhD student at UC Berkeley, where I work with Prof. [Serina Chang](https://serinachang5.github.io/) and Prof. [Stuart Russell](https://aima.eecs.berkeley.edu/~russell/). I’m affiliated with the [Center for Human-Compatible Artificial Intelligence (CHAI)](https://chai.berkeley.edu/) and [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/).
 
-I was a ML Alignment & Theory Scholar ([MATS](https://www.matsprogram.org/)), worked with `Evan Hubinger` from Anthropic on AI values evaluations ([LitmusValues](https://arxiv.org/abs/2505.14633)). 
+I work on AI safety and alignment. My research asks how AI systems should navigate conflicting human values and how pluralistic input can inform concrete alignment objectives and evaluations.
 
-Currently, I'm a Research Associate at New York University, working with Prof. `Sydney Levine` from NYU/Google DeepMind and Prof. `Mitchell Gordon` from MIT/OpenAI. Check out our recent work, [MoReBench](https://morebench.github.io/) (a PhD-level, rubric-based moral reasoning benchmark), in collaboration with Scale AI!
-
-My research focuses on the intersection of Human-centered AI and AI Safety. Broadly, I’m intrigued by how humans and AI understand the world, think and make important decisions, and how we can use these insights to better support humans using AI and ensure AI can benefit humanity . My goal is to build and enhance *moral, empathetic, and culturally sensitive AI*, with a current focus on real-world data collection, human-AI collaboration and value-alignment evaluation.
-
-Always happy to connect with people who are excited to chat or collaborate on AI value alignment and AI safety research!
+Before Berkeley, I worked on evaluating AI values and moral reasoning, cultural understanding, and AI behavior in mental-health settings at the [University of Washington](https://www.washington.edu/), through the [ML Alignment & Theory Scholars (MATS)](https://www.matsprogram.org/) program with [Anthropic](https://www.anthropic.com/), and at [New York University](https://www.nyu.edu/).

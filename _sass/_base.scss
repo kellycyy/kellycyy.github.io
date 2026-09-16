@@ -659,6 +659,28 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  .publication-theme {
+    align-items: center;
+    color: var(--global-theme-color);
+    display: flex;
+    font-size: 1.05rem;
+    font-weight: 500;
+    gap: 0.8rem;
+    letter-spacing: 0.02em;
+    margin: 1.75rem 0 0.75rem;
+
+    &::after {
+      background: var(--global-divider-color);
+      content: "";
+      flex: 1;
+      height: 1px;
+    }
+  }
+
+  .publication-theme:first-child {
+    margin-top: 0;
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
